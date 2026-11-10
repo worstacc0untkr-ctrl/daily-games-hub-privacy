@@ -1,0 +1,1049 @@
+{
+ "schema": 1,
+ "version": 1,
+ "updated": "2026-11-10",
+ "categories": [
+  "Word",
+  "Geography",
+  "Trivia",
+  "Logic & Numbers",
+  "Movies & TV",
+  "Music",
+  "Video Games",
+  "Visual & Estimation",
+  "History",
+  "Sports",
+  "Everything Else"
+ ],
+ "games": [
+  {
+   "id": "wordle",
+   "name": "Wordle",
+   "cat": "Word",
+   "rank": 1,
+   "url": "https://www.nytimes.com/games/wordle/index.html",
+   "desc": "Guess the 5-letter word in six or fewer attempts.",
+   "g": true
+  },
+  {
+   "id": "nyt-connections",
+   "name": "NYT Connections",
+   "cat": "Word",
+   "rank": 2,
+   "url": "https://www.nytimes.com/games/connections",
+   "desc": "Group words that share a common thread.",
+   "g": true
+  },
+  {
+   "id": "spelling-bee",
+   "name": "Spelling Bee",
+   "cat": "Word",
+   "rank": 3,
+   "url": "https://spellsbee.com",
+   "desc": "Given 7 letters, make as many words as you can that contain the center letter. Same as NYT Spelling Bee, which requires a subscription."
+  },
+  {
+   "id": "strands",
+   "name": "Strands",
+   "cat": "Word",
+   "rank": 4,
+   "url": "https://www.nytimes.com/games/strands",
+   "desc": "Find hidden words and uncover the day’s theme.",
+   "g": true
+  },
+  {
+   "id": "quordle",
+   "name": "Quordle",
+   "cat": "Word",
+   "rank": 5,
+   "url": "https://www.merriam-webster.com/games/quordle/#/",
+   "desc": "Solve 4 Wordle puzzles at the same time.",
+   "g": true
+  },
+  {
+   "id": "octordle",
+   "name": "Octordle",
+   "cat": "Word",
+   "rank": 6,
+   "url": "https://www.britannica.com/games/octordle",
+   "desc": "Solve 8 Wordle puzzles at the same time. You have 13 guesses."
+  },
+  {
+   "id": "queens",
+   "name": "Queens",
+   "cat": "Logic & Numbers",
+   "rank": 7,
+   "url": "https://www.linkedin.com/games/queens",
+   "desc": "Place queens on the board such that exactly one is in each row, column, and color region. Does not require a LinkedIn account."
+  },
+  {
+   "id": "worldle",
+   "name": "Worldle",
+   "cat": "Geography",
+   "rank": 8,
+   "url": "https://worldle.teuteuf.fr",
+   "desc": "Guess the country by its shape on the world map.",
+   "g": true
+  },
+  {
+   "id": "globle",
+   "name": "Globle",
+   "cat": "Geography",
+   "rank": 9,
+   "url": "https://globle-game.com/game",
+   "desc": "Guess the mystery country, given how close it is to each guessed country.",
+   "g": true
+  },
+  {
+   "id": "tango",
+   "name": "Tango",
+   "cat": "Logic & Numbers",
+   "rank": 10,
+   "url": "https://www.linkedin.com/games/tango",
+   "desc": "Fill in the grid properly with suns and moons. Does not require a LinkedIn account."
+  },
+  {
+   "id": "waffle",
+   "name": "Waffle",
+   "cat": "Word",
+   "rank": 11,
+   "url": "https://wafflegame.net/daily",
+   "desc": "Swap letters to create words both horizontally and vertically. Seems to have been made before Word Waffle."
+  },
+  {
+   "id": "travle",
+   "name": "travle",
+   "cat": "Geography",
+   "rank": 12,
+   "url": "https://travle.earth",
+   "desc": "Connect the starting country to the ending country by naming countries in between them."
+  },
+  {
+   "id": "framed",
+   "name": "Framed",
+   "cat": "Movies & TV",
+   "rank": 13,
+   "url": "https://framed.wtf",
+   "desc": "Guess the movie from 6 frames."
+  },
+  {
+   "id": "squaredle",
+   "name": "Squaredle",
+   "cat": "Word",
+   "rank": 14,
+   "url": "https://squaredle.app",
+   "desc": "Find all the hidden words in a grid by connecting letters horizontally, vertically, or diagonally. Two puzzles each day."
+  },
+  {
+   "id": "contexto",
+   "name": "Contexto",
+   "cat": "Word",
+   "rank": 15,
+   "url": "https://contexto.me",
+   "desc": "Guess words to see how close they are to the secret word in terms of context, eventually guessing the secret word."
+  },
+  {
+   "id": "who-are-ya",
+   "name": "Who Are Ya?",
+   "cat": "Sports",
+   "rank": 16,
+   "url": "https://playfootball.games/who-are-ya/"
+  },
+  {
+   "id": "spotle",
+   "name": "Spotle",
+   "cat": "Music",
+   "rank": 17,
+   "url": "https://spotle.io",
+   "desc": "Guess the music artist in 10 tries, gaining new information based on each guess."
+  },
+  {
+   "id": "pinpoint",
+   "name": "Pinpoint",
+   "cat": "Trivia",
+   "rank": 18,
+   "url": "https://www.linkedin.com/games/pinpoint",
+   "desc": "Guess today’s category given as few clues as possible. Does not require a LinkedIn account."
+  },
+  {
+   "id": "metazooa",
+   "name": "Metazooa",
+   "cat": "Everything Else",
+   "rank": 19,
+   "url": "https://metazooa.com",
+   "desc": "Guess animals to see where they share common ancestors with the mystery animal, eventually guessing the mystery animal."
+  },
+  {
+   "id": "bandle",
+   "name": "Bandle",
+   "cat": "Music",
+   "rank": 20,
+   "url": "https://bandle.app",
+   "desc": "Guess the song, one instrument at a time (sort of)."
+  },
+  {
+   "id": "loldle",
+   "name": "LoLdle",
+   "cat": "Video Games",
+   "rank": 21,
+   "url": "https://loldle.net",
+   "desc": "A bunch of daily games where you guess the champion from League of Legends."
+  },
+  {
+   "id": "pokedoku",
+   "name": "Pokedoku",
+   "cat": "Video Games",
+   "rank": 22,
+   "url": "https://pokedoku.com",
+   "desc": "Fill out the grid with Pokémon matching the criteria of each cell’s row and column."
+  },
+  {
+   "id": "nerdle",
+   "name": "Nerdle",
+   "cat": "Logic & Numbers",
+   "rank": 23,
+   "url": "https://nerdlegame.com",
+   "desc": "Guess the secret arithmetic equation.",
+   "g": true
+  },
+  {
+   "id": "murdle",
+   "name": "Murdle",
+   "cat": "Logic & Numbers",
+   "rank": 24,
+   "url": "https://murdle.com",
+   "desc": "Solve today’s murder-mystery logic puzzle."
+  },
+  {
+   "id": "geogrid",
+   "name": "GeoGrid",
+   "cat": "Geography",
+   "rank": 25,
+   "url": "https://www.geogridgame.com",
+   "desc": "Fill in the grid with countries that match each cell’s corresponding row and column categories."
+  },
+  {
+   "id": "timeguessr",
+   "name": "TimeGuessr",
+   "cat": "History",
+   "rank": 26,
+   "url": "https://timeguessr.com",
+   "desc": "Guess the right time and location of each historical photo."
+  },
+  {
+   "id": "conexo",
+   "name": "Conexo",
+   "cat": "Word",
+   "rank": 27,
+   "url": "https://conexo.ws/en",
+   "desc": "Form groups of 4 words that have something in common."
+  },
+  {
+   "id": "duotrigordle",
+   "name": "Duotrigordle",
+   "cat": "Word",
+   "rank": 28,
+   "url": "https://duotrigordle.com",
+   "desc": "Solve 32 Wordle puzzles at the same time."
+  },
+  {
+   "id": "pokedle-com",
+   "name": "Pokedle",
+   "cat": "Video Games",
+   "rank": 29,
+   "url": "https://pokedle.net",
+   "desc": "Guess the Pokemon in these daily quizzes."
+  },
+  {
+   "id": "globle-capitals",
+   "name": "Globle: Capitals",
+   "cat": "Geography",
+   "rank": 30,
+   "url": "https://globle-capitals.com",
+   "desc": "Guess the mystery world capital, given how close it is to each guessed world capital."
+  },
+  {
+   "id": "flagle-game",
+   "name": "Flagle",
+   "cat": "Geography",
+   "rank": 31,
+   "url": "https://www.flagle.io",
+   "desc": "Guess the flag in 5 guesses or less."
+  },
+  {
+   "id": "minute-cryptic",
+   "name": "Minute Cryptic",
+   "cat": "Word",
+   "rank": 32,
+   "url": "https://www.minutecryptic.com",
+   "desc": "Solve today’s cryptic clue."
+  },
+  {
+   "id": "foodguessr",
+   "name": "Foodguessr",
+   "cat": "Everything Else",
+   "rank": 33,
+   "url": "https://www.foodguessr.com",
+   "desc": "Guess what country each of the food dishes are from."
+  },
+  {
+   "id": "cinenerdle",
+   "name": "CineNerdle",
+   "cat": "Movies & TV",
+   "rank": 34,
+   "url": "https://www.cinenerdle.app",
+   "desc": "Rearrange the cells into groups that represent movies/themes. Includes Critical - a game where you guess a movie by revealing as few…"
+  },
+  {
+   "id": "sedecordle",
+   "name": "Sedecordle",
+   "cat": "Word",
+   "rank": 35,
+   "url": "https://sedecordle.com",
+   "desc": "Solve 16 wordles at the same time. You have 21 guesses."
+  },
+  {
+   "id": "semantle",
+   "name": "Semantle",
+   "cat": "Word",
+   "rank": 36,
+   "url": "https://semantle.com",
+   "desc": "Guess words to see how close they are to the secret word semantically, eventually guessing the secret word."
+  },
+  {
+   "id": "redactle",
+   "name": "Redactle",
+   "cat": "Trivia",
+   "rank": 37,
+   "url": "https://redactle.net",
+   "desc": "Guess the Wikipedia article by its content with keywords redacted."
+  },
+  {
+   "id": "wheretaken",
+   "name": "WhereTaken",
+   "cat": "Geography",
+   "rank": 38,
+   "url": "https://wheretaken.teuteuf.fr",
+   "desc": "Guess the Country/Region in which the photo was taken."
+  },
+  {
+   "id": "7-little-words",
+   "name": "7 Little Words",
+   "cat": "Word",
+   "rank": 39,
+   "url": "https://7littlewords.com/7lw",
+   "desc": "Combine tiles to create words matching the clues, 5 rounds everyday"
+  },
+  {
+   "id": "mathler",
+   "name": "Mathler",
+   "cat": "Logic & Numbers",
+   "rank": 40,
+   "url": "https://www.mathler.com",
+   "desc": "Find the hidden calculation that equals the given number."
+  },
+  {
+   "id": "google-feud",
+   "name": "Google Feud",
+   "cat": "Trivia",
+   "rank": 41,
+   "url": "https://googlefeud.com",
+   "desc": "Guess how Google auto-completes the search query, click on “Question of the Day”."
+  },
+  {
+   "id": "cemantle",
+   "name": "Cemantle",
+   "cat": "Word",
+   "rank": 42,
+   "url": "https://cemantle.certitudes.org",
+   "desc": "Guess words to see how close they are to the secret word contextually, eventually guessing the secret word."
+  },
+  {
+   "id": "metaflora",
+   "name": "Metaflora",
+   "cat": "Everything Else",
+   "rank": 43,
+   "url": "https://flora.metazooa.com",
+   "desc": "Guess plants to see where they share common ancestors with the mystery plant, eventually guessing the mystery plant."
+  },
+  {
+   "id": "squareword",
+   "name": "Squareword",
+   "cat": "Word",
+   "rank": 44,
+   "url": "https://squareword.org",
+   "desc": "Guess 5-letter words to uncover the square of words both horizontally and vertically."
+  },
+  {
+   "id": "guessthegame",
+   "name": "GuessThe.Game",
+   "cat": "Video Games",
+   "rank": 45,
+   "url": "https://guessthe.game",
+   "desc": "Guess the video game by its cropped screenshots."
+  },
+  {
+   "id": "heardle-daily",
+   "name": "Heardle Daily",
+   "cat": "Music",
+   "rank": 46,
+   "url": "https://www.heardle.info/daily/",
+   "desc": "Guess the song by listening to small parts of it.",
+   "g": true
+  },
+  {
+   "id": "actorle",
+   "name": "Actorle",
+   "cat": "Movies & TV",
+   "rank": 47,
+   "url": "https://actorle.com",
+   "desc": "Guess the movie actor based on the given information, with each guess revealing matching information."
+  },
+  {
+   "id": "gamedle-classic",
+   "name": "Gamedle Classic",
+   "cat": "Video Games",
+   "rank": 48,
+   "url": "https://www.gamedle.wtf/classic",
+   "desc": "Guess the video game by its cover."
+  },
+  {
+   "id": "poeltl",
+   "name": "Poeltl",
+   "cat": "Sports",
+   "rank": 49,
+   "url": "https://poeltl.nbpa.com",
+   "desc": "Guess the NBA player in 8 guesses."
+  },
+  {
+   "id": "tradle",
+   "name": "Tradle",
+   "cat": "Geography",
+   "rank": 50,
+   "url": "https://oec.world/en/games/tradle",
+   "desc": "Guess the country by its exports."
+  },
+  {
+   "id": "filmlink",
+   "name": "FilmLink",
+   "cat": "Movies & TV",
+   "rank": 51,
+   "url": "https://filmlink.io",
+   "desc": "Connect the movies by their cast, crew, or similar films."
+  },
+  {
+   "id": "more-less",
+   "name": "More/Less",
+   "cat": "Trivia",
+   "rank": 52,
+   "url": "https://lessgames.com/moreless",
+   "desc": "Guess which option has more, 5 categories, 5 rounds each. (25 rounds total)"
+  },
+  {
+   "id": "three-letters-game",
+   "name": "Three Letters Game",
+   "cat": "Word",
+   "rank": 53,
+   "url": "https://threelettersgame.com/?ref=dles.gg"
+  },
+  {
+   "id": "clues-by-sam",
+   "name": "Clues By Sam",
+   "cat": "Logic & Numbers",
+   "rank": 54,
+   "url": "https://cluesbysam.com",
+   "desc": "Use the clues to figure out which characters are innocent and which are criminals."
+  },
+  {
+   "id": "chn-lnk",
+   "name": "CHN LNK",
+   "cat": "Word",
+   "rank": 55,
+   "url": "https://thechnlnk.com",
+   "desc": "Complete the chain of connected words by guessing all of the consonants, then all of the vowels."
+  },
+  {
+   "id": "daily-fact-or-fiction",
+   "name": "Daily Fact or Fiction",
+   "cat": "Trivia",
+   "rank": 56,
+   "url": "https://dailyfactorfiction.com",
+   "desc": "Guess whether today’s statement is fact or fiction."
+  },
+  {
+   "id": "krillion",
+   "name": "Krillion",
+   "cat": "Trivia",
+   "rank": 57,
+   "url": "https://krillion.io",
+   "desc": "Dive as deep as you can by giving rare answers to each trivia question."
+  },
+  {
+   "id": "magnitudle",
+   "name": "Magnitudle",
+   "cat": "Visual & Estimation",
+   "rank": 58,
+   "url": "https://magnitudle.com/size-it-up",
+   "desc": "Scale the object accurately based on a real-world reference object, 5 rounds every day."
+  },
+  {
+   "id": "plot-hole",
+   "name": "Plot-Hole",
+   "cat": "Movies & TV",
+   "rank": 59,
+   "url": "https://plot-hole.com/"
+  },
+  {
+   "id": "mapgame",
+   "name": "MapGame",
+   "cat": "Geography",
+   "rank": 60,
+   "url": "https://mapgame.net",
+   "desc": "Use the map to guess a country, getting new hints after each guess."
+  },
+  {
+   "id": "rngdle",
+   "name": "RNGdle",
+   "cat": "Everything Else",
+   "rank": 61,
+   "url": "https://www.rngdle.com",
+   "desc": "Roll a random number between 0 and 1 million, earning points based on its patterns and properties."
+  },
+  {
+   "id": "angle",
+   "name": "Angle",
+   "cat": "Visual & Estimation",
+   "rank": 62,
+   "url": "https://angle.wtf",
+   "desc": "Guess the angle in 4 guesses or less."
+  },
+  {
+   "id": "catfishing",
+   "name": "Catfishing",
+   "cat": "Trivia",
+   "rank": 63,
+   "url": "https://catfishing.net",
+   "desc": "Guess the Wikipedia article by its categories. 10 rounds per day."
+  },
+  {
+   "id": "cutle",
+   "name": "Cutle",
+   "cat": "Visual & Estimation",
+   "rank": 64,
+   "url": "https://pfiffel.com/cutle/",
+   "desc": "Cut today’s shape as evenly as you can."
+  },
+  {
+   "id": "gauntle",
+   "name": "Gauntle",
+   "cat": "Trivia",
+   "rank": 65,
+   "url": "https://gauntle.com",
+   "desc": "Complete 11 mini daily games in a row as quickly as you can."
+  },
+  {
+   "id": "scrandle",
+   "name": "Scrandle",
+   "cat": "Everything Else",
+   "rank": 66,
+   "url": "https://scrandle.com",
+   "desc": "Guess which scran (stadium food) is more popular based on their pictures and prices."
+  },
+  {
+   "id": "kinda-hard-golf",
+   "name": "Kinda Hard Golf",
+   "cat": "Everything Else",
+   "rank": 67,
+   "url": "https://kindahardgolf.com",
+   "desc": "A challenging daily golf game."
+  },
+  {
+   "id": "songless",
+   "name": "Songless",
+   "cat": "Music",
+   "rank": 68,
+   "url": "https://lessgames.com/songless",
+   "desc": "Guess the song from listening to small parts of it."
+  },
+  {
+   "id": "dialed",
+   "name": "Dialed",
+   "cat": "Visual & Estimation",
+   "rank": 69,
+   "url": "https://dialed.gg/color",
+   "desc": "They show you a color for 5 seconds, then you try to recreate it. Click the calendar for the daily mode."
+  },
+  {
+   "id": "sections",
+   "name": "Sections",
+   "cat": "Logic & Numbers",
+   "rank": 70
+  },
+  {
+   "id": "clueday",
+   "name": "ClueDay",
+   "cat": "Word",
+   "rank": 71,
+   "url": "https://clueday.com/?ref=dles.gg"
+  },
+  {
+   "id": "enclose-horse",
+   "name": "enclose.horse",
+   "cat": "Logic & Numbers",
+   "rank": 72,
+   "url": "https://enclose.horse",
+   "desc": "Enclose the horse in the biggest possible pen."
+  },
+  {
+   "id": "daily-brain",
+   "name": "Daily Brain",
+   "cat": "Logic & Numbers",
+   "rank": 73,
+   "url": "https://daily-brain.app/?ref=dles.gg"
+  },
+  {
+   "id": "costcodle",
+   "name": "Costcodle",
+   "cat": "Everything Else",
+   "rank": 74,
+   "url": "https://costcodle.com",
+   "desc": "Guess the price of the given Costco item."
+  },
+  {
+   "id": "maptap",
+   "name": "MapTap",
+   "cat": "Geography",
+   "rank": 75,
+   "url": "https://maptap.gg",
+   "desc": "Click as close as you can to the given world cities, 5 rounds per day."
+  },
+  {
+   "id": "disorderly",
+   "name": "Disorderly",
+   "cat": "Trivia",
+   "rank": 76,
+   "url": "https://playdisorderly.com",
+   "desc": "Order the items correctly based on the given criteria."
+  },
+  {
+   "id": "feudle",
+   "name": "Feudle",
+   "cat": "Trivia",
+   "rank": 77,
+   "url": "https://feudlegame.com/"
+  },
+  {
+   "id": "rotaboxes",
+   "name": "Rotaboxes",
+   "cat": "Logic & Numbers",
+   "rank": 78,
+   "url": "https://rotaboxes.com",
+   "desc": "Rotate all the tiles into their correct orientation to reveal today’s picture."
+  },
+  {
+   "id": "bracket-city",
+   "name": "Bracket City",
+   "cat": "Word",
+   "rank": 79,
+   "url": "https://www.theatlantic.com/games/bracket-city/",
+   "desc": "Solve the clues within brackets, eventually completing the puzzle. (From The Atlantic)"
+  },
+  {
+   "id": "aita-guesser",
+   "name": "AITA Guesser",
+   "cat": "Everything Else",
+   "rank": 80,
+   "url": "https://muhashi.com/aita-guesser/",
+   "desc": "Guess the verdict of Reddit AITA posts."
+  },
+  {
+   "id": "orbs",
+   "name": "Orbs",
+   "cat": "Trivia",
+   "rank": 81,
+   "url": "https://dailyorbs.com",
+   "desc": "Try to get 6 orbs across four daily trivia puzzles."
+  },
+  {
+   "id": "steamdle-com",
+   "name": "steamdle",
+   "cat": "Video Games",
+   "rank": 82,
+   "url": "https://steamdle.com",
+   "desc": "Guess the game based on the Steam review."
+  },
+  {
+   "id": "juxtastat",
+   "name": "Juxtastat",
+   "cat": "Visual & Estimation",
+   "rank": 83,
+   "url": "https://urbanstats.org/quiz.html",
+   "desc": "For 5 rounds, guess which of the two regions better fits the given criteria."
+  },
+  {
+   "id": "thingdle",
+   "name": "thingdle",
+   "cat": "Everything Else",
+   "rank": 84,
+   "url": "https://thingdle.app/en/thingdle",
+   "desc": "A daily riddle where you guess an everyday object."
+  },
+  {
+   "id": "circle-moon-puzzles",
+   "name": "Circle Nine",
+   "cat": "Logic & Numbers",
+   "rank": 85,
+   "url": "https://circle9puzzle.com",
+   "desc": "A collection of fun daily logic games."
+  },
+  {
+   "id": "chesscom-daily-puzzle",
+   "name": "Chess.com Daily",
+   "cat": "Everything Else",
+   "rank": 86,
+   "url": "https://www.chess.com/daily-chess-puzzle",
+   "desc": "Solve the daily chess puzzle from chess.com."
+  },
+  {
+   "id": "stardewdle",
+   "name": "Stardewdle",
+   "cat": "Video Games",
+   "rank": 87,
+   "url": "https://stardewdle.com/game",
+   "desc": "Guess today’s mystery crop from Stardew Valley."
+  },
+  {
+   "id": "thrice",
+   "name": "Thrice",
+   "cat": "Word",
+   "rank": 88,
+   "url": "https://thrice.geekswhodrink.com",
+   "desc": "Answer today’s 5 trivia questions, each from a different category."
+  },
+  {
+   "id": "colorfle",
+   "name": "Colorfle",
+   "cat": "Visual & Estimation",
+   "rank": 89,
+   "url": "https://colorfle.com",
+   "desc": "Figure out the color composition of the given color."
+  },
+  {
+   "id": "five-fold",
+   "name": "Five Fold",
+   "cat": "Logic & Numbers",
+   "rank": 90,
+   "url": "https://fivefold.ca",
+   "desc": "Fill in the 5x5 grid based on rules that change each day."
+  },
+  {
+   "id": "gerrymandle",
+   "name": "Gerrymandle",
+   "cat": "Everything Else",
+   "rank": 91,
+   "url": "https://gerrymandle.com",
+   "desc": "Win the election for the given color by properly gerrymandering the grid into districts."
+  },
+  {
+   "id": "the-daily-burgle",
+   "name": "The Daily Burgle",
+   "cat": "Logic & Numbers",
+   "rank": 92,
+   "url": "https://www.thedailyburgle.app",
+   "desc": "Burgle the vault by guessing movies whose plot descriptions contain words from the vault! By CineNerdle."
+  },
+  {
+   "id": "blueberry",
+   "name": "BlueBerry",
+   "cat": "Logic & Numbers",
+   "rank": 93,
+   "url": "https://circle9puzzle.com/blueberry/?ref=dles.gg"
+  },
+  {
+   "id": "terraequest",
+   "name": "TerraeQuest",
+   "cat": "Geography",
+   "rank": 94,
+   "url": "https://terraequest.com/?ref=dles.gg"
+  },
+  {
+   "id": "gnarlyq",
+   "name": "GnarlyQ",
+   "cat": "Trivia",
+   "rank": 95,
+   "url": "https://gnarlyq.com",
+   "desc": "For each category, choose the five correct answers and dodge the traps."
+  },
+  {
+   "id": "capitalibrate",
+   "name": "Capitalibrate",
+   "cat": "Geography",
+   "rank": 96,
+   "url": "https://guessdash.com/capitalibrate",
+   "desc": "Guess the direction and distance from the starting capital to the target capital."
+  },
+  {
+   "id": "minecraftle",
+   "name": "Minecraftle",
+   "cat": "Video Games",
+   "rank": 97,
+   "url": "https://minecraftle.zachmanson.com",
+   "desc": "Guess the crafting recipe from the game Minecraft."
+  },
+  {
+   "id": "noun-sense",
+   "name": "Noun Sense",
+   "cat": "Word",
+   "rank": 98,
+   "url": "https://daily.gametje.com/nounsense",
+   "desc": "Guess the most common noun that follows the adjective, 10 words every day."
+  },
+  {
+   "id": "tiled-words",
+   "name": "Tiled Words",
+   "cat": "Word",
+   "rank": 99,
+   "url": "https://tiledwords.com",
+   "desc": "Move and rotate tiles to find clues, connect words, and rebuild a broken crossword."
+  },
+  {
+   "id": "crosstune",
+   "name": "Crosstune",
+   "cat": "Music",
+   "rank": 100,
+   "url": "https://crosstune.io",
+   "desc": "A music crossword puzzle where the clues include song audio."
+  },
+  {
+   "id": "daily-dozen-trivia",
+   "name": "Daily Dozen Trivia",
+   "cat": "Trivia",
+   "rank": 101,
+   "url": "https://dailydozentrivia.com",
+   "desc": "Answer 9 trivia questions from various categories."
+  },
+  {
+   "id": "minigolfle",
+   "name": "Minigolfle",
+   "cat": "Everything Else",
+   "rank": 102,
+   "url": "https://minigolfle.com",
+   "desc": "2D retro minigolf game with 3 randomly generated levels each day."
+  },
+  {
+   "id": "tv-addict",
+   "name": "TV-Addict",
+   "cat": "Movies & TV",
+   "rank": 103,
+   "url": "https://tv-addict.com/?ref=dles.gg"
+  },
+  {
+   "id": "daily-tens",
+   "name": "Daily Tens",
+   "cat": "Trivia",
+   "rank": 104,
+   "url": "https://dailytens.com",
+   "desc": "Guess the top 10 items of today’s category."
+  },
+  {
+   "id": "hisorty",
+   "name": "hisorty",
+   "cat": "History",
+   "rank": 105,
+   "url": "https://hisorty.app/?ref=dles.gg"
+  },
+  {
+   "id": "statesquest",
+   "name": "StatesQuest",
+   "cat": "Geography",
+   "rank": 106,
+   "url": "https://statesquest.com/?ref=dles.gg"
+  },
+  {
+   "id": "statele",
+   "name": "Statele",
+   "cat": "Geography",
+   "rank": 107,
+   "url": "https://statele.teuteuf.fr",
+   "desc": "Guess the US State by its outline on the map."
+  },
+  {
+   "id": "sumplete",
+   "name": "Sumplete",
+   "cat": "Logic & Numbers",
+   "rank": 108,
+   "url": "https://sumplete.com/daily",
+   "desc": "Delete numbers so that each row and column adds up to their target number."
+  },
+  {
+   "id": "bingewatcher",
+   "name": "BingeWatcher",
+   "cat": "Movies & TV",
+   "rank": 109,
+   "url": "https://bingewatcher.org/"
+  },
+  {
+   "id": "guess-the-angle",
+   "name": "Guess The Angle",
+   "cat": "Visual & Estimation",
+   "rank": 110,
+   "url": "https://guesstheangle.wtf",
+   "desc": "Guess today’s angle in 4 guesses or less."
+  },
+  {
+   "id": "peekpedia",
+   "name": "Peekpedia",
+   "cat": "Trivia",
+   "rank": 111,
+   "url": "https://peekpedia.com/?ref=dles.gg"
+  },
+  {
+   "id": "geoquest",
+   "name": "GeoQuest",
+   "cat": "Geography",
+   "rank": 112,
+   "url": "https://geoquest.gg",
+   "desc": "Locate today’s countries on the world map."
+  },
+  {
+   "id": "movie-grid",
+   "name": "Movie Grid",
+   "cat": "Movies & TV",
+   "rank": 113,
+   "url": "https://moviegrid.io",
+   "desc": "Fill out the grid with movies matching the criteria of each cell’s row and column."
+  },
+  {
+   "id": "estimate-me",
+   "name": "Estimate Me",
+   "cat": "Visual & Estimation",
+   "rank": 114,
+   "url": "https://estimate-me.aukspot.com",
+   "desc": "Handmade and hand-counted estimation puzzles such as “How many jelly beans are in this jar?”"
+  },
+  {
+   "id": "coindle",
+   "name": "Coindle",
+   "cat": "Everything Else",
+   "rank": 115,
+   "url": "https://muhashi.com/coindle/",
+   "desc": "Get as many coin flips correct in a row as you can. Only one attempt per day."
+  },
+  {
+   "id": "colorguesser",
+   "name": "ColorGuesser",
+   "cat": "Visual & Estimation",
+   "rank": 116,
+   "url": "https://colorguesser.com",
+   "desc": "Guess the actual color that each of the color names represent."
+  },
+  {
+   "id": "chronophoto",
+   "name": "Chronophoto",
+   "cat": "History",
+   "rank": 117,
+   "url": "https://www.chronophoto.app",
+   "desc": "Guess the year in which each historical picture was taken."
+  },
+  {
+   "id": "daily-unfold",
+   "name": "Daily Unfold",
+   "cat": "Visual & Estimation",
+   "rank": 118,
+   "url": "https://www.dailyunfold.com/?ref=dles.gg"
+  },
+  {
+   "id": "lyricle",
+   "name": "Lyricle",
+   "cat": "Music",
+   "rank": 119,
+   "url": "https://www.lyricle.app",
+   "desc": "Guess the song from the given lyrics."
+  },
+  {
+   "id": "movie-to-movie",
+   "name": "Movie to Movie",
+   "cat": "Movies & TV",
+   "rank": 120,
+   "url": "https://movietomovie.com",
+   "desc": "Connect two movies by jumping through actors and the movies they’ve been in."
+  },
+  {
+   "id": "mcdle-crafting-bee",
+   "name": "MCdle Crafting Bee",
+   "cat": "Video Games",
+   "rank": 121,
+   "url": "https://www.mcdle.net",
+   "desc": "A collection of daily games related to Minecraft."
+  },
+  {
+   "id": "heardle-2010s",
+   "name": "Heardle 2010’s",
+   "cat": "Music",
+   "rank": 122,
+   "url": "https://10s.heardledecades.com",
+   "desc": "Guess the 2010’s song from listening to small parts of it."
+  },
+  {
+   "id": "fermi",
+   "name": "Fermi",
+   "cat": "Visual & Estimation",
+   "rank": 123,
+   "url": "https://fermi.gg",
+   "desc": "Three daily estimation questions from different categories."
+  },
+  {
+   "id": "balatrodle",
+   "name": "Balatrodle",
+   "cat": "Video Games",
+   "rank": 124,
+   "url": "https://www.balatrodle.com",
+   "desc": "Guess the Joker from the game Balatro."
+  },
+  {
+   "id": "musicle",
+   "name": "Musicle",
+   "cat": "Music",
+   "rank": 125,
+   "url": "https://musicle.app",
+   "desc": "Match the song audio to the correct album art. Lots of categories."
+  },
+  {
+   "id": "spotle-movies",
+   "name": "Spotle Movies",
+   "cat": "Movies & TV",
+   "rank": 126,
+   "url": "https://spotle.movie/?ref=dles.gg"
+  },
+  {
+   "id": "gamedle-artwork",
+   "name": "Gamedle Artwork",
+   "cat": "Video Games",
+   "rank": 127,
+   "url": "https://www.gamedle.wtf/artwork",
+   "desc": "Guess the video game by its artwork."
+  },
+  {
+   "id": "historiaquest",
+   "name": "HistoriaQuest",
+   "cat": "History",
+   "rank": 128,
+   "url": "https://historiaquest.com/?ref=dles.gg"
+  },
+  {
+   "id": "perfect-pitch-puzzle",
+   "name": "Perfect Pitch Puzzle",
+   "cat": "Music",
+   "rank": 129,
+   "url": "https://www.perfectpitchpuzzle.com",
+   "desc": "After listening to a short tune, identify the first 6 notes that were played."
+  },
+  {
+   "id": "typecasted",
+   "name": "Typecasted",
+   "cat": "Movies & TV",
+   "rank": 130,
+   "url": "https://typecasted.xyz/?ref=dles.gg"
+  }
+ ]
+}
