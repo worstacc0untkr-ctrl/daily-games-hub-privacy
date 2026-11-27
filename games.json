@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "version": 2,
- "updated": "2026-11-10",
+ "updated": "2026-11-27",
  "categories": [
   "Word",
   "Geography",
@@ -25,7 +25,6 @@
    "desc": "Guess the 5-letter word in six or fewer attempts.",
    "g": true
   },
-
   {
    "id": "spelling-bee",
    "name": "Spelling Bee",
@@ -1036,6 +1035,286 @@
    "cat": "Movies & TV",
    "rank": 130,
    "url": "https://typecasted.xyz/?ref=dles.gg"
+  },
+  {
+   "id": "immaculate-grid-baseball",
+   "name": "Immaculate Grid: Baseball",
+   "cat": "Sports",
+   "rank": 131,
+   "url": "https://www.sports-reference.com/immaculate-grid/",
+   "desc": "Fill the 3x3 grid with baseball players who match each row and column."
+  },
+  {
+   "id": "immaculate-grid-football",
+   "name": "Immaculate Grid: Football",
+   "cat": "Sports",
+   "rank": 132,
+   "url": "https://www.sports-reference.com/immaculate-grid/football",
+   "desc": "Fill the 3x3 grid with pro football players who match each row and column."
+  },
+  {
+   "id": "immaculate-grid-basketball",
+   "name": "Immaculate Grid: Basketball",
+   "cat": "Sports",
+   "rank": 133,
+   "url": "https://www.sports-reference.com/immaculate-grid/basketball/mens",
+   "desc": "Fill the 3x3 grid with basketball players who match each row and column."
+  },
+  {
+   "id": "immaculate-grid-hockey",
+   "name": "Immaculate Grid: Hockey",
+   "cat": "Sports",
+   "rank": 134,
+   "url": "https://www.sports-reference.com/immaculate-grid/hockey",
+   "desc": "Fill the 3x3 grid with hockey players who match each row and column."
+  },
+  {
+   "id": "immaculate-footy",
+   "name": "Immaculate Footy",
+   "cat": "Sports",
+   "rank": 135,
+   "url": "https://www.sports-reference.com/immaculate-footy/",
+   "desc": "Fill the grid with soccer players who match each row and column."
+  },
+  {
+   "id": "weddle",
+   "name": "Weddle",
+   "cat": "Sports",
+   "rank": 136,
+   "url": "https://www.weddlegame.com",
+   "desc": "Guess the mystery NFL player within 8 guesses."
+  },
+  {
+   "id": "mlb-pickle",
+   "name": "MLB Pickle",
+   "cat": "Sports",
+   "rank": 137,
+   "url": "https://www.mlbpickle.com",
+   "desc": "Guess today's mystery MLB player within nine guesses."
+  },
+  {
+   "id": "puckdoku",
+   "name": "Puckdoku",
+   "cat": "Sports",
+   "rank": 138,
+   "url": "https://www.puckdoku.com",
+   "desc": "Fill the grid with hockey players matching each row and column."
+  },
+  {
+   "id": "hoopgrids",
+   "name": "Hoopgrids",
+   "cat": "Sports",
+   "rank": 139,
+   "url": "https://www.hoopgrids.com",
+   "desc": "A daily NBA grid game: name players who fit both clues in each square."
+  },
+  {
+   "id": "futbol-11",
+   "name": "Futbol 11",
+   "cat": "Sports",
+   "rank": 140,
+   "url": "https://futbol-11.com/",
+   "desc": "Daily football (soccer) puzzles."
+  },
+  {
+   "id": "timdle",
+   "name": "Timdle",
+   "cat": "History",
+   "rank": 141,
+   "url": "https://www.timdle.com",
+   "desc": "Place 8 historical events in the right order."
+  },
+  {
+   "id": "timeline-game",
+   "name": "TimeLine Game",
+   "cat": "History",
+   "rank": 142,
+   "url": "https://www.playtimelines.com",
+   "desc": "Arrange historical events in the order they happened."
+  },
+  {
+   "id": "daydle",
+   "name": "Daydle",
+   "cat": "History",
+   "rank": 143,
+   "url": "https://daydle.com",
+   "desc": "Guess the year of a historical event that happened on today's date."
+  },
+  {
+   "id": "which-year",
+   "name": "Which Year",
+   "cat": "History",
+   "rank": 144,
+   "url": "https://whichyr.com",
+   "desc": "Guess the year each photo was taken."
+  },
+  {
+   "id": "chrono",
+   "name": "Chrono",
+   "cat": "History",
+   "rank": 145,
+   "url": "https://chrono.quest",
+   "desc": "Put events in chronological order in 3 tries or fewer."
+  },
+  {
+   "id": "harmonies",
+   "name": "Harmonies",
+   "cat": "Music",
+   "rank": 146,
+   "url": "https://harmonies.io",
+   "desc": "Group items into sets of four that share a musical theme."
+  },
+  {
+   "id": "musicvidle",
+   "name": "MusicVidle",
+   "cat": "Music",
+   "rank": 147,
+   "url": "https://www.musicvidle.com",
+   "desc": "Guess the song from selected frames of its music video."
+  },
+  {
+   "id": "heardle-1990s",
+   "name": "Heardle 1990's",
+   "cat": "Music",
+   "rank": 148,
+   "url": "https://90s.heardledecades.com",
+   "desc": "Guess 1990s songs from short audio clips."
+  },
+  {
+   "id": "heardle-2000s",
+   "name": "Heardle 2000's",
+   "cat": "Music",
+   "rank": 149,
+   "url": "https://00s.heardledecades.com",
+   "desc": "Guess 2000s songs from short audio clips."
+  },
+  {
+   "id": "heardle-1980s",
+   "name": "Heardle 1980's",
+   "cat": "Music",
+   "rank": 150,
+   "url": "https://80s.heardledecades.com",
+   "desc": "Guess 1980s songs from short audio clips."
+  },
+  {
+   "id": "video-game-bandle",
+   "name": "Video Game Bandle",
+   "cat": "Music",
+   "rank": 151,
+   "url": "https://www.vgbandle.app",
+   "desc": "Guess the video game and song played by the MIDI band."
+  },
+  {
+   "id": "daily-jingle",
+   "name": "Daily Jingle",
+   "cat": "Music",
+   "rank": 152,
+   "url": "https://dailyjingle.me",
+   "desc": "Guess a melody within 5 tries."
+  },
+  {
+   "id": "relatle",
+   "name": "relatle.io",
+   "cat": "Music",
+   "rank": 153,
+   "url": "https://relatle.io",
+   "desc": "Link one musical artist to another through related artists."
+  },
+  {
+   "id": "neighborle",
+   "name": "Neighborle",
+   "cat": "Geography",
+   "rank": 154,
+   "url": "https://neighborle.com",
+   "desc": "Guess the countries that border a highlighted country."
+  },
+  {
+   "id": "satle",
+   "name": "Satle",
+   "cat": "Geography",
+   "rank": 155,
+   "url": "https://satle.ca",
+   "desc": "Guess a city from a satellite image, zooming out after each guess."
+  },
+  {
+   "id": "mapster",
+   "name": "Mapster",
+   "cat": "Geography",
+   "rank": 156,
+   "url": "https://mapster.teuteuf.fr",
+   "desc": "Draw a country's outline as close as you can to its real borders."
+  },
+  {
+   "id": "whentaken",
+   "name": "WhenTaken",
+   "cat": "Geography",
+   "rank": 157,
+   "url": "https://whentaken.com",
+   "desc": "Guess the year and location of a photo."
+  },
+  {
+   "id": "wheretaken-usa",
+   "name": "WhereTaken USA",
+   "cat": "Geography",
+   "rank": 158,
+   "url": "https://wheretakenusa.teuteuf.fr",
+   "desc": "Guess the US state where a photo was taken."
+  },
+  {
+   "id": "trivial-pursuit-daily",
+   "name": "Trivial Pursuit Daily",
+   "cat": "Trivia",
+   "rank": 159,
+   "url": "https://www.trivialpursuit.com/daily",
+   "desc": "One trivia question from each category, every day."
+  },
+  {
+   "id": "rankle",
+   "name": "Rankle",
+   "cat": "Trivia",
+   "rank": 160,
+   "url": "https://www.rankle.app",
+   "desc": "Rank 6 things in 4 guesses, with a new category each day."
+  },
+  {
+   "id": "quizl",
+   "name": "Quizl",
+   "cat": "Trivia",
+   "rank": 161,
+   "url": "https://quizl.io",
+   "desc": "Answer today's 5 trivia questions."
+  },
+  {
+   "id": "list-them-all",
+   "name": "List Them All!",
+   "cat": "Trivia",
+   "rank": 162,
+   "url": "https://listthemall.com",
+   "desc": "List every item that fits today's category."
+  },
+  {
+   "id": "top-5",
+   "name": "Top 5",
+   "cat": "Trivia",
+   "rank": 163,
+   "url": "https://topfivetrivia.com",
+   "desc": "Guess the top 5 items of today's category."
+  },
+  {
+   "id": "pedantle",
+   "name": "pedantle",
+   "cat": "Trivia",
+   "rank": 164,
+   "url": "https://pedantle.certitudes.org",
+   "desc": "Find the secret Wikipedia page by revealing words from its introduction."
+  },
+  {
+   "id": "real-bird-fake-bird",
+   "name": "Real Bird Fake Bird",
+   "cat": "Trivia",
+   "rank": 165,
+   "url": "https://realbirdfakebird.com",
+   "desc": "Decide whether each of 7 prompts is real or fake."
   }
  ]
 }
