@@ -25,15 +25,7 @@
    "desc": "Guess the 5-letter word in six or fewer attempts.",
    "g": true
   },
-  {
-   "id": "nyt-connections",
-   "name": "NYT Connections",
-   "cat": "Word",
-   "rank": 2,
-   "url": "https://www.nytimes.com/games/connections",
-   "desc": "Group words that share a common thread.",
-   "g": true
-  },
+
   {
    "id": "spelling-bee",
    "name": "Spelling Bee",
